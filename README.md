@@ -1,2 +1,5 @@
-# color-converter
-Convert your color to multiple other formats.
+# Color Converter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+>Convert your color to multiple other formats.
+
+Try demo: https://tools.waytolearnx.com/color-converter
